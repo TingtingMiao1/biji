@@ -1,0 +1,7 @@
+E:\VRTK的记录\chouxianggongchang\chouxianggongchang\bin\Debug\chouxianggongchang.exe.config
+E:\VRTK的记录\chouxianggongchang\chouxianggongchang\bin\Debug\chouxianggongchang.exe
+E:\VRTK的记录\chouxianggongchang\chouxianggongchang\bin\Debug\chouxianggongchang.pdb
+E:\VRTK的记录\chouxianggongchang\chouxianggongchang\obj\Debug\chouxianggongchang.csprojAssemblyReference.cache
+E:\VRTK的记录\chouxianggongchang\chouxianggongchang\obj\Debug\chouxianggongchang.csproj.CoreCompileInputs.cache
+E:\VRTK的记录\chouxianggongchang\chouxianggongchang\obj\Debug\chouxianggongchang.exe
+E:\VRTK的记录\chouxianggongchang\chouxianggongchang\obj\Debug\chouxianggongchang.pdb

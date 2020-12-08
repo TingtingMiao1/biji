@@ -1,0 +1,7 @@
+E:\VRTK的记录\jianzaozhe\jianzaozhe\bin\Debug\jianzaozhe.exe.config
+E:\VRTK的记录\jianzaozhe\jianzaozhe\bin\Debug\jianzaozhe.exe
+E:\VRTK的记录\jianzaozhe\jianzaozhe\bin\Debug\jianzaozhe.pdb
+E:\VRTK的记录\jianzaozhe\jianzaozhe\obj\Debug\jianzaozhe.csprojAssemblyReference.cache
+E:\VRTK的记录\jianzaozhe\jianzaozhe\obj\Debug\jianzaozhe.csproj.CoreCompileInputs.cache
+E:\VRTK的记录\jianzaozhe\jianzaozhe\obj\Debug\jianzaozhe.exe
+E:\VRTK的记录\jianzaozhe\jianzaozhe\obj\Debug\jianzaozhe.pdb
