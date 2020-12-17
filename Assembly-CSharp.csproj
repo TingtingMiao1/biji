@@ -61,14 +61,21 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\animator\Anm\player1.cs" />
+    <Compile Include="Assets\Script\_Audio.cs" />
+    <Compile Include="Assets\Script\_Slider.cs" />
     <Compile Include="Assets\Script\caomei1.cs" />
     <Compile Include="Assets\Script\Controller2.cs" />
+    <Compile Include="Assets\Script\GameMssage.cs" />
+    <Compile Include="Assets\Script\guoguan.cs" />
+    <Compile Include="Assets\Script\guoguan1.cs" />
     <Compile Include="Assets\Script\Map.cs" />
     <Compile Include="Assets\Script\move1.cs" />
     <Compile Include="Assets\Script\pengzhuang.cs" />
-    <Compile Include="Assets\Script\qiehuanbaoliu.cs" />
+    <Compile Include="Assets\Script\Play.cs" />
+    <Compile Include="Assets\Script\rukou.cs" />
     <Compile Include="Assets\Script\shengcheng.cs" />
     <Compile Include="Assets\Script\Singleton1.cs" />
+    <Compile Include="Assets\Text1.cs" />
     <Compile Include="Assets\Zero Rare\Retro Sound Effects\Demo\Demo.cs" />
     <None Include="Assets\Tex\normalmap\SpaceDistort.shader" />
     <None Include="Assets\SimpleSky\ReadMe.txt" />
