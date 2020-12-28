@@ -21,7 +21,7 @@ namespace Assets.Scripts
             JudgementOrCreate();
             _scoreDataParent = GameObject.Find("/Canvas/ScoreRankList").transform;
             _sortButton = GameObject.Find("/Canvas/SortButton").GetComponent<Button>();
-            _nameField = GameObject.Find("/Canvas/NameInputField").GetComponent<InputField>();
+            _nameField = tijiaoshujv.
             _nameField.contentType = InputField.ContentType.Name;
             _scoreField = GameObject.Find("/Canvas/ScoreInputField").GetComponent<InputField>();
             _scoreField.contentType = InputField.ContentType.IntegerNumber;

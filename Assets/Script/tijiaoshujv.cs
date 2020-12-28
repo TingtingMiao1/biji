@@ -6,7 +6,7 @@ using UnityEngine.UI;
 public class tijiaoshujv : MonoBehaviour
 {
     public Text textdefen;
-    public Text textxingming;
+    private InputField _name;
     // Start is called before the first frame update
     void Start()
     {
@@ -16,7 +16,7 @@ public class tijiaoshujv : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        textdefen.text = " "+pengzhuang.Score;  
-
+        textdefen.text = " "+pengzhuang.Score;
+      //  _nameField =  GameObject.Find("/Canvas/NameInputField").GetComponent<InputField>();
     }
 }
