@@ -6,7 +6,7 @@ using UnityEngine.UI;
 public class tijiaoshujv : MonoBehaviour
 {
     public Text textdefen;
-    private InputField _name;
+   
     // Start is called before the first frame update
     void Start()
     {

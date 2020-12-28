@@ -72,7 +72,6 @@
     <Compile Include="Assets\Script\move1.cs" />
     <Compile Include="Assets\Script\pengzhuang.cs" />
     <Compile Include="Assets\Script\Play.cs" />
-    <Compile Include="Assets\Script\RankScore.cs" />
     <Compile Include="Assets\Script\rukou.cs" />
     <Compile Include="Assets\Script\Score1.cs" />
     <Compile Include="Assets\Script\shengcheng.cs" />
@@ -81,6 +80,7 @@
     <Compile Include="Assets\Zero Rare\Retro Sound Effects\Demo\Demo.cs" />
     <None Include="Assets\Tex\normalmap\SpaceDistort.shader" />
     <None Include="Assets\SimpleSky\ReadMe.txt" />
+    <None Include="Assets\Resources\RankingList.txt" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>D:/吃豆豆/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>

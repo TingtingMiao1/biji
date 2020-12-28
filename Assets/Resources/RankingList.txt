@@ -1,0 +1,10 @@
+{"Name":"Gxt","GameScore":2452}
+{"Name":"Qqq","GameScore":666}
+{"Name":"sds","GameScore":98}
+{"Name":"kkk","GameScore":78}
+{"Name":"ppp","GameScore":31}
+{"Name":"aaa","GameScore":26}
+{"Name":"发放","GameScore":23}
+{"Name":"hhh","GameScore":18}
+{"Name":"mmm","GameScore":16}
+{"Name":"zzz","GameScore":15}

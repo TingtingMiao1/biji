@@ -27,11 +27,10 @@ public class guoguan1 : MonoBehaviour
         }
 
     }
-    public void Xiayiguan()
+   
+    public void Rekaishi()
     {
-        SceneManager.LoadSceneAsync ("3");//要切换到的场景名
-      
-
+        SceneManager.LoadScene("0");//要切换到的场景名
     }
     // Update is called once per frame
     void Update()
